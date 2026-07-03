@@ -1,0 +1,8 @@
+{
+  "name": "Tayyab Younas Portfolio",
+  "description": "Premium modern data science and developer portfolio website with interactive macOS terminal, animated timeline, and dynamic tech stack filter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
